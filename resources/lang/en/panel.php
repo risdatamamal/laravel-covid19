@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'site_title' => 'Flatten The Curve',
+    'site_title' => 'Covid Terkini',
 ];
